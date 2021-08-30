@@ -1,7 +1,9 @@
-# title(){
-		
-		return this.options.title || this.options.name;
-	}
+follow this link to see this project:
+
+https://hackbraten68.github.io/bbq-landing-page/
+
+
+#####################
 
 ## Supporting Scrimba
 
